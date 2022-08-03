@@ -21,6 +21,7 @@ Here are some ideas to get you started:
   - OOP (`C#`, `Java`)
   - Backend (`ASP.NET Core`, `Entity Framework`, `Dapper` | `Spring Boot`, `Hibernate`)
   - OS (`linux`)
+  - Mobile dev (`Flutter`)
 
 ### Контакты:
 
